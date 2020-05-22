@@ -1,0 +1,23 @@
+p1:-1 0 C:\\Users\\Woodm\\Documents\\Perforce\\faculty-studio\\Tech\\Prototype\\NetworkPrototype\\Assets\\test-scene.unity
+p1:-1 0 C:\\Users\\Woodm\\Documents\\Perforce\\faculty-studio\\Tech\\Prototype\\NetworkPrototype\\Assets\\test-scene.unity.meta
+C:/Users/Woodm/Documents/Perforce/faculty-studio/Tech/Prototype/NetworkPrototype/ProjectSettings/EditorSettings.asset - file(s) not on client.
+
+w1:C:/Users/Woodm/Documents/Perforce/faculty-studio/Tech/Prototype/NetworkPrototype/ProjectSettings/EditorSettings.asset - file(s) not on client.\n
+p1:-1 0 Change 111892 created with 2 open file(s).
+p1:-1 0 Submitting change 111892.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/etc/courses/2020_semester_2/faculty-studio/Tech/Prototype/NetworkPrototype/Assets/Test.cs#1
+p1:-1 0 add //depot/etc/courses/2020_semester_2/faculty-studio/Tech/Prototype/NetworkPrototype/Assets/Test.cs.meta#1
+p1:-1 1 Change 111892 submitted.
+p1:-1 0 C:\\Users\\Woodm\\Documents\\Perforce\\faculty-studio\\Tech\\Prototype\\NetworkPrototype\\Assets\\toms material.mat
+p1:-1 0 C:\\Users\\Woodm\\Documents\\Perforce\\faculty-studio\\Tech\\Prototype\\NetworkPrototype\\Assets\\toms material.mat.meta
+p1:-1 0 Change 111893 created with 4 open file(s).
+p1:-1 0 Submitting change 111893.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 move/delete //depot/etc/courses/2020_semester_2/faculty-studio/Tech/Prototype/NetworkPrototype/Assets/Test.cs#2
+p1:-1 0 move/delete //depot/etc/courses/2020_semester_2/faculty-studio/Tech/Prototype/NetworkPrototype/Assets/Test.cs.meta#2
+p1:-1 0 move/add //depot/etc/courses/2020_semester_2/faculty-studio/Tech/Prototype/NetworkPrototype/Assets/Woody-Test.cs#1
+p1:-1 0 move/add //depot/etc/courses/2020_semester_2/faculty-studio/Tech/Prototype/NetworkPrototype/Assets/Woody-Test.cs.meta#1
+p1:-1 0 Change 111893 submitted.
+p1:-1 1 C:\\Users\\Woodm\\Documents\\Perforce\\faculty-studio\\Tech\\Prototype\\NetworkPrototype\\Assets\\joey-test.anim
+p1:-1 1 C:\\Users\\Woodm\\Documents\\Perforce\\faculty-studio\\Tech\\Prototype\\NetworkPrototype\\Assets\\joey-test.anim.meta
