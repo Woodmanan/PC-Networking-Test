@@ -21,3 +21,4 @@ p1:-1 0 move/add //depot/etc/courses/2020_semester_2/faculty-studio/Tech/Prototy
 p1:-1 0 Change 111893 submitted.
 p1:-1 1 C:\\Users\\Woodm\\Documents\\Perforce\\faculty-studio\\Tech\\Prototype\\NetworkPrototype\\Assets\\joey-test.anim
 p1:-1 1 C:\\Users\\Woodm\\Documents\\Perforce\\faculty-studio\\Tech\\Prototype\\NetworkPrototype\\Assets\\joey-test.anim.meta
+e32:connect: 128.2.236.137:1666: WSAETIMEDOUT\n
